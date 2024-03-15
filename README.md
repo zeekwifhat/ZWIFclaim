@@ -13,3 +13,4 @@ The frontend is built to be fully configurable and ready-to-go in under 10 minut
 3. Update the `logo.png` (recommended: 250x250) and `meta.png` (recommended: 1200x637) in `public/`
 4. Then, `npm install` (install dependencies) and `npm run dev` to run development build
 # ZWIFclaim
+# ZWIFclaim
